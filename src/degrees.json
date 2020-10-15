@@ -1,0 +1,54 @@
+[
+	   {
+		   "value":1,
+		   "label":"Ensino Fundamental"
+	   },
+	   {
+		   "value":2,
+		   "label":"1° ano do ensino médio"
+	   },
+	   {
+		   "value":3,
+		   "label":"2° ano ensino médio"
+	   },
+	   {
+		   "value":4,
+		   "label":"3° ano do ensino médio"
+	   },
+	   {
+		   "value":5,
+		   "label":"Cursinho"
+	   },
+	   {
+		   "value":8,
+		   "label":"4º ano do ensino fundamental"
+	   },
+	   {
+		   "value":9,
+		   "label":"5º ano do ensino fundamental"
+	   },
+	   {
+		   "value":10,
+		   "label":"6º ano do ensino fundamental"
+	   },
+	   {
+		   "value":11,
+		   "label":"7º ano do ensino fundamental"
+	   },
+	   {
+		   "value":12,
+		   "label":"8º ano do ensino fundamental"
+	   },
+	   {
+		   "value":13,
+		   "label":"9º ano do ensino fundamental"
+	   },
+	   {
+		   "value":6,
+		   "label":"Estudo em casa"
+	   },
+	   {
+		   "value":7,
+		   "label":"Outros"
+	   }
+]
