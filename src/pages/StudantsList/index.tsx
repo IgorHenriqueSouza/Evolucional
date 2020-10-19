@@ -4,9 +4,16 @@ import PageHeader from '../../components/PageHeader';
 
 import './styles.css';
 
+
 import Select from '../../components/Select';
+
 import Serie from '../../degrees.json';
-import Classe from '../../classes.json'
+import Classe from '../../classes.json';
+import Studants from '../../students.json';
+
+
+
+    
 
 function StudantsList() {
         
@@ -30,9 +37,15 @@ function StudantsList() {
                     options={Classe}
                 />  
                     
-
                 </form>
             </ PageHeader>
+            <div>
+                <form id="search-teachers">
+                    <input type={studant} />
+                </form>
+            </div>
+            
+
 
             <main>
                 
