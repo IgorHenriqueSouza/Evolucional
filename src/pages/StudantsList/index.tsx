@@ -39,11 +39,11 @@ function StudantsList() {
                     
                 </form>
             </ PageHeader>
-            <div>
+            {/* <div>
                 <form id="search-teachers">
                     <input type={studant} />
                 </form>
-            </div>
+            </div> */}
             
 
 
