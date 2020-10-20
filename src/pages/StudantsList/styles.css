@@ -17,6 +17,19 @@
     width: 90%;
 }
 
+#page-teacher-list legend {
+    margin-top:4.5rem;
+    text-align: center;
+    font: 700 2.4rem Archivo;
+}
+
+#page-teacher-list li {
+    margin-top: 2.5rem;
+    font: 700 1.4rem Archivo;
+    text-align: center;
+    
+}
+
 
 
 @media (min-width: 700px) {

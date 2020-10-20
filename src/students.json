@@ -2,35 +2,35 @@
 	{
 		"Id":1,
 		"ra":12346,
-		"name":"Nome do aluno 1",
+		"name":"Igor Henrique Diniz Souza",
 		"degreeId":1,
 		"classId":1
 	},
 	{
 		"Id":2,
 		"ra":456798,
-		"name":"Nome do aluno 2",
+		"name":"Bianca Carassa Maia",
 		"degreeId":2,
 		"classId":1
 	},
 	{
 		"Id":3,
 		"ra":752156,
-		"name":"Nome do aluno 3",
+		"name":"João Vitor",
 		"degreeId":3,
 		"classId":2
 	},
 	{
 		"Id":4,
 		"ra":852348,
-		"name":"Nome do aluno 4",
+		"name":"Veralucia Diniz",
 		"degreeId":4,
 	  "classId":2
 	},
 	{
 		"Id":5,
 		"ra":454643,
-		"name":"Nome do aluno 5",
+		"name":"Devaldir Rodrigues",
 		"degreeId":6,
 	  	"classId":2
 	}
